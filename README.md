@@ -10,7 +10,7 @@ A Python-based WiFi brute-force tool designed for educational purposes and penet
 
 ---
 
-## ✨ Features  
+## Features  
 
 - **Random password generation** using customizable character sets (letters, numbers, symbols).  
 - **Real-time statistics** including attempts, speed (attempts/sec), and current password.  
@@ -20,7 +20,7 @@ A Python-based WiFi brute-force tool designed for educational purposes and penet
 
 ---
 
-## 📦 Installation  
+## Installation  
 
 ### Prerequisites  
 - Python 3.x  
